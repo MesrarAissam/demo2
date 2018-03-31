@@ -1,8 +1,8 @@
 
-function hello(){
-    console.log("Hello Git from Aissam");
+function hello(n){
+    console.log("Hello Git from Aissam"+n);
 	
 
 }
 
-hello();
+hello("mes");
