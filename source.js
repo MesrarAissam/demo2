@@ -1,8 +1,8 @@
 
 function hello(n){
-    console.log("Hello Git from Aissam"+n);
+    Console.log("Hello Git from Aissam"+n);
 	
 
 }
 
-hello("ali");
+Hello("ali");
